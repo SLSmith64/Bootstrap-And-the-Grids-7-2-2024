@@ -16,3 +16,7 @@ footer{
     padding-bottom: 1.5rem;
     flex-shrink: 0;
 }
+
+.minHeight {
+    min-height: 85vh;
+}
