@@ -17,6 +17,6 @@ footer{
     flex-shrink: 0;
 }
 
-/* .minHeight {
+.minHeight {
     min-height: 85vh;
-} */
+}
